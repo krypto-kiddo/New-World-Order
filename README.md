@@ -9,7 +9,7 @@ This project includes multiple reknowned contributors like the Krypto-Kiddo , Sa
 Initially started as a university semester project for a blockchain course we barely attended. The project is aimed at providing both, liquified currency tokens and NFTs to its users. 
 
 
-> Tokens standards like ERC-20 and ERC-721 require a separate contract to be deployed for each token type or collection. This places a lot of redundant bytecode on the Ethereum blockchain and limits certain functionality by the nature of separating each token contract into its own permissioned address. With the rise of blockchain games and platforms like Enjin Coin, game developers may be creating thousands of token types, and a new type of token standard is needed to support them. However, ERC-1155 is not specific to games and many other applications can benefit from this flexibility.
 
 
-<img src="https://user-images.githubusercontent.com/97212160/202846767-6ee1d2b9-14c5-4714-8907-94acc950da7e.png" width="250" height="250" align="right" /> Hello world
+
+<img src="https://user-images.githubusercontent.com/97212160/202846767-6ee1d2b9-14c5-4714-8907-94acc950da7e.png" width="250" height="250" align="right" /> > Tokens standards like ERC-20 and ERC-721 require a separate contract to be deployed for each token type or collection. This places a lot of redundant bytecode on the Ethereum blockchain and limits certain functionality by the nature of separating each token contract into its own permissioned address. With the rise of blockchain games and platforms like Enjin Coin, game developers may be creating thousands of token types, and a new type of token standard is needed to support them. However, ERC-1155 is not specific to games and many other applications can benefit from this flexibility.
